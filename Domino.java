@@ -1,3 +1,5 @@
+// Domino Piling on MxN board (Codeforces 50A equivalent)
+// Brief: Maximum number of 2x1 dominos on an MxN board is floor(M*N/2).
 import java.util.Scanner;
 
 public class Domino {

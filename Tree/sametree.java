@@ -1,4 +1,5 @@
 // Leetcode 100. Same Tree
+// Brief: Recursively compare nodes and subtrees; trees are same if all pairs match.
 
 
 package Tree;

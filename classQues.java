@@ -1,3 +1,5 @@
+// LeetCode 238. Product of Array Except Self
+// Brief: For each index, compute product of all other elements. This version is O(n^2); optimal uses prefix/suffix products in O(n) without division.
 // Question :- given an array {1,2,3,4} find a product array where each element is the product of all elements except itself
 import java.util.*;
 public class classQues {

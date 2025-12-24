@@ -1,4 +1,5 @@
-// Leetcode 129. Sum Root to Leaf Numbers~~
+// Leetcode 129. Sum Root to Leaf Numbers
+// Brief: DFS accumulates path number by multiplying by 10 and adding node value; sum at leaves.
 
 package Tree;
 

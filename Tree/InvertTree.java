@@ -1,4 +1,5 @@
 // Leetcode 226. Invert Binary Tree
+// Brief: Recursively swap left/right children for every node to mirror the tree.
 
 /**
  * Definition for a binary tree node.

@@ -1,3 +1,6 @@
+// LeetCode 34: Find First and Last Position of Element in Sorted Array
+// Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+// Brief: Modified binary search twice to get leftmost and rightmost indices.
 import java.util.*;
 public class firstoccurence {
     public static void main(String[] args){

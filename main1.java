@@ -1,3 +1,5 @@
+// LeetCode 622. Design Circular Queue
+// Brief: Circular buffer queue with modular arithmetic for enqueue/dequeue.
 
 class Queue {
 

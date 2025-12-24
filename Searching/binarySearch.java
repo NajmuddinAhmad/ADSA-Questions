@@ -1,3 +1,5 @@
+// Basic: Binary Search on sorted array
+// Brief: Divide-and-conquer to locate target in O(log n).
 public class binarySearch {
         public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5, 7};

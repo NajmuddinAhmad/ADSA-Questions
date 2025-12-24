@@ -1,3 +1,5 @@
+// Basic: Find maximum element in an array
+// Brief: Linear scan to track the largest value.
 public class maxElement {
     public static void main(String[] args) {
         int [] arr = {8, 9, 2 , 5 ,15 , 6 , 7};
@@ -12,6 +14,4 @@ public class maxElement {
         }
         System.out.println(max);
     }
-
-
 }

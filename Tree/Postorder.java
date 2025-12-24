@@ -1,4 +1,5 @@
 // Leetcode 145. Binary Tree Postorder Traversal
+// Brief: DFS visits left, then right, then root to collect nodes in postorder.
 
 
 import java.util.ArrayList;

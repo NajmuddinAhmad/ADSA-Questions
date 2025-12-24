@@ -1,3 +1,5 @@
+// LeetCode 704. Binary Search
+// Brief: Iterative binary search returns index if found, else -1.
 
 
 

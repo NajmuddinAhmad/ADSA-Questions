@@ -1,4 +1,5 @@
-
+// Doubly Linked List implementation (insert/delete at ends)
+// Brief: Manual node structure with prev/next pointers and basic ops.
 public class doublyLL {
 
     class Node {

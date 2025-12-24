@@ -1,3 +1,5 @@
+// Basic: Linear Search
+// Brief: Scan array sequentially to find target in O(n).
 public class linearSearch {
     public static void main(String[] args) {
         int[] arr = {2, 4, 9, 1, 4};

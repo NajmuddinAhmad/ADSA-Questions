@@ -1,4 +1,5 @@
 // Leetcode 144. Binary Tree Preorder Traversal
+// Brief: DFS visits root first, then left, then right to collect preorder sequence.
 
 import java.util.ArrayList;
 import java.util.List;

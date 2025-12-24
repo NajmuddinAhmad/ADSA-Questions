@@ -1,3 +1,5 @@
+// LeetCode 303. Range Sum Query - Immutable
+// Brief: Build prefix sums to answer sumRange(left,right) in O(1) time.
 import java.util.*;
 
 public class prefix2 {

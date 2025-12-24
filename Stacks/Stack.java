@@ -1,4 +1,5 @@
 // Stack using array
+// Brief: Fixed-size array stack supporting push/pop/peek with overflow/underflow checks.
 
 public class Stack {
 

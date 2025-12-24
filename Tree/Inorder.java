@@ -1,4 +1,5 @@
 // Leetcode 94. Binary Tree Inorder Traversal
+// Brief: DFS traverses left subtree, visit node, then right subtree; collects values in-order.
 
 package Tree;
 

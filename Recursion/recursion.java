@@ -1,3 +1,5 @@
+// Basics: Recursive factorial and Fibonacci
+// Brief: Simple recursion examples; factorial uses n * f(n-1), Fibonacci is exponential without memo.
 public class recursion {
     public static void main(String[] args) {
         factorial(5);

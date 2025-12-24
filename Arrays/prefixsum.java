@@ -1,3 +1,6 @@
+// LeetCode 1480: Running Sum of 1d Array
+// Link: https://leetcode.com/problems/running-sum-of-1d-array/
+// Brief: Build prefix sums where result[i] = result[i-1] + nums[i].
 import java.util.*;
 
 public class prefixsum {
